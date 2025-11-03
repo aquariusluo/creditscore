@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run frontend:build",
+  "devCommand": "npm run frontend:start",
+  "installCommand": "npm install && npm run frontend:install",
+  "framework": "create-react-app",
+  "rootDirectory": "frontend"
+}
