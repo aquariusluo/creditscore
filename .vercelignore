@@ -1,0 +1,7 @@
+node_modules
+.git
+contracts
+scripts
+test
+hardhat.config.ts
+*.md
